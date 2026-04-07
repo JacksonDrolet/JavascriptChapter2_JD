@@ -20,4 +20,3 @@ b. Set the value of the element with the id “fValue” to the value returned b
   
 9. Save your changes to the file. 
 10. Open project02-01.html in your web browser. Verify that when you enter 45 in the Temp in the C box and press Tab a value of 113 appears in the Temp F box. Verify that when you enter 59 in the Temp in F box and press Tab a value of 15 appears in the Temp in C box. 
-
